@@ -1,6 +1,6 @@
-update=9/17/2012 10:11:12 PM
+update=9/30/2012 4:03:57 PM
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetITyp=0
@@ -50,8 +50,6 @@ LibName17=Switch
 LibName18=Terminal_Block
 LibName19=Display
 LibName20=Electromechanical
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=C:/KiCAD_Libraries/Schematic
@@ -123,3 +121,5 @@ LibName36=connector
 LibName37=terminal_block
 LibName38=Electromechanical
 LibName39=Active
+[general]
+version=1

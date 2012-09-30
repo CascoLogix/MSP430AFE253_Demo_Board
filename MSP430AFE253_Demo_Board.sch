@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 9/13/2012 3:38:11 PM
+EESchema Schematic File Version 2  date 9/28/2012 7:27:18 PM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -45,7 +45,7 @@ $Descr A4 11700 8267
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "13 sep 2012"
+Date "29 sep 2012"
 Rev ""
 Comp ""
 Comment1 ""
@@ -53,6 +53,7 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+NoConn ~ 3550 900 
 Text Notes 7525 3725 0    40   ~ 0
 GND
 Text Notes 7525 3625 0    40   ~ 0
@@ -246,8 +247,6 @@ Wire Wire Line
 	6250 1900 6450 1900
 Wire Wire Line
 	950  1300 1050 1300
-Wire Wire Line
-	3550 900  3550 950 
 Connection ~ 2700 1050
 Wire Wire Line
 	2700 1050 3400 1050
@@ -280,9 +279,6 @@ Wire Wire Line
 	2700 2750 2700 2850
 Wire Wire Line
 	3400 1050 3400 900 
-Wire Wire Line
-	3550 950  3600 950 
-Connection ~ 3600 950 
 Wire Wire Line
 	4600 2750 4600 2850
 Wire Wire Line
