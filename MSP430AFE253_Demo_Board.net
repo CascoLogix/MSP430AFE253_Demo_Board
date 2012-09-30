@@ -1,0 +1,530 @@
+# EESchema Netlist Version 1.1 created  9/13/2012 3:32:27 PM
+(
+ ( /503ADAE1 0603 C1 .1u
+  ( 1 N-000029 )
+  ( 2 GND )
+ )
+ ( /503ADAB5 0603 C2 .1u
+  ( 1 N-000054 )
+  ( 2 GND )
+ )
+ ( /503ADAAE 0603 C3 .1u
+  ( 1 N-000028 )
+  ( 2 GND )
+ )
+ ( /503700CA P0805 C4 4.7u
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /50514E9F 0603 C5 .1u
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /50514EA6 0603 C6 .1u
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /503C383E P0805 C7 4.7u
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /503C3464 P0805 C8 4.7u
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /505123A4 0603 C9 .1u
+  ( 1 N-000048 )
+  ( 2 GND )
+ )
+ ( /503ADD8F 0603 C10 .1u
+  ( 1 N-000050 )
+  ( 2 GND )
+ )
+ ( /503AD9B9 LED-0603 D1 GREEN
+  ( 1 N-000039 )
+  ( 2 N-000038 )
+ )
+ ( /5032783D LED-0603 D2 RED
+  ( 1 N-000023 )
+  ( 2 N-000036 )
+ )
+ ( /503ADDE1 LED-0603 D3 BLUE
+  ( 1 N-000035 )
+  ( 2 N-000015 )
+ )
+ ( /505133F0 USB_MINI_B_RA_SMT J1 USB_MINI_B
+  ( 1 +5V )
+  ( 2 N-000013 )
+  ( 3 N-000011 )
+  ( 4 GND )
+  ( 5 GND )
+  ( 6 GND )
+  ( 7 GND )
+  ( 8 GND )
+  ( 9 GND )
+ )
+ ( /503272FA HEADER_100MIL_1R3P_PTH P1 POWER
+  ( 1 VCC )
+  ( 2 VCC )
+  ( 3 GND )
+ )
+ ( /5050FA89 HEADER_100MIL_1R2P_PTH P2 3.3V
+  ( 1 N-000052 )
+  ( 2 VCC )
+ )
+ ( /505241FA HEADER_100MIL_1R4P_PTH P3 HEADER_1X4
+  ( 1 VCC )
+  ( 2 N-000051 )
+  ( 3 N-000030 )
+  ( 4 GND )
+ )
+ ( /503C2E4B HEADER_100MIL_1R2P_PTH P4 TX
+  ( 1 N-000046 )
+  ( 2 N-000031 )
+ )
+ ( /503C2E4F HEADER_100MIL_1R2P_PTH P5 RX
+  ( 1 N-000005 )
+  ( 2 N-000049 )
+ )
+ ( /503C2FE1 HEADER_100MIL_1R8P_PTH P6 DEBUG
+  ( 1 /P1.1 )
+  ( 2 /P1.5 )
+  ( 3 /P1.6 )
+  ( 4 /P2.0 )
+  ( 5 XT2IN )
+  ( 6 XT2OUT )
+  ( 7 VCC )
+  ( 8 GND )
+ )
+ ( /504EAEDC SM0603 R1 1.8k
+  ( 1 GND )
+  ( 2 N-000038 )
+ )
+ ( /504EAEF0 SM0603 R2 1.8k
+  ( 1 GND )
+  ( 2 N-000036 )
+ )
+ ( /504EACF4 SM0603 R3 47k
+  ( 1 N-000029 )
+  ( 2 +5V )
+ )
+ ( /504EAD1B SM0603 R4 47k
+  ( 1 N-000054 )
+  ( 2 +5V )
+ )
+ ( /504EAD1D SM0603 R5 47k
+  ( 1 N-000028 )
+  ( 2 +5V )
+ )
+ ( /5051202A SM0603 R6 0
+  ( 1 N-000008 )
+  ( 2 XTAL )
+ )
+ ( /50512029 SM0603 R7 1M
+  ( 1 N-000008 )
+  ( 2 N-000047 )
+ )
+ ( /5051202B SM0603 R8 0
+  ( 1 N-000047 )
+  ( 2 EXTAL )
+ )
+ ( /504EAD43 SM0603 R9 33
+  ( 1 N-000011 )
+  ( 2 N-000007 )
+ )
+ ( /504EAD6E SM0603 R10 33
+  ( 1 N-000013 )
+  ( 2 N-000012 )
+ )
+ ( /50511E26 SM0603 R11 47k
+  ( 1 VCC )
+  ( 2 N-000051 )
+ )
+ ( /50511FBF SM0603 R12 0
+  ( 1 N-000010 )
+  ( 2 XT2IN )
+ )
+ ( /50511FC0 SM0603 R13 1M
+  ( 1 N-000010 )
+  ( 2 N-000009 )
+ )
+ ( /50511FBE SM0603 R14 0
+  ( 1 N-000009 )
+  ( 2 XT2OUT )
+ )
+ ( /504EAD81 SM0603 R15 47k
+  ( 1 N-000032 )
+  ( 2 N-000048 )
+ )
+ ( /504EAD92 SM0603 R16 47k
+  ( 1 N-000014 )
+  ( 2 N-000050 )
+ )
+ ( /504EADA8 SM0603 R17 750
+  ( 1 N-000015 )
+  ( 2 GND )
+ )
+ ( /5050E9D1 SW_TACT_PUSH_6MM_PTH SW1 FSM4JH
+  ( 1 N-000050 )
+  ( 2 N-000050 )
+  ( 3 GND )
+  ( 4 GND )
+ )
+ ( /505123A2 SW_TACT_PUSH_6MM_PTH SW2 FSM4JH
+  ( 1 N-000048 )
+  ( 2 N-000048 )
+  ( 3 GND )
+  ( 4 GND )
+ )
+ ( /5050E9C8 SW_TACT_PUSH_6MM_PTH SW3 FSM4JH
+  ( 1 N-000051 )
+  ( 2 N-000051 )
+  ( 3 GND )
+  ( 4 GND )
+ )
+ ( /503702D0 TB_100MIL_1R8P_PTH TB1 ANALOG
+  ( 1 /A0P )
+  ( 2 /A0N )
+  ( 3 /A1P )
+  ( 4 /A1N )
+  ( 5 /A2P )
+  ( 6 /A2N )
+  ( 7 N-000040 )
+  ( 8 GND )
+ )
+ ( /503446D4 QFN-24_0.65MM U1 USB2SERA10CFK
+  ( 1 N-000029 )
+  ( 2 N-000054 )
+  ( 3 N-000028 )
+  ( 4 ? )
+  ( 5 N-000039 )
+  ( 6 ? )
+  ( 7 N-000023 )
+  ( 8 ? )
+  ( 9 ? )
+  ( 10 ? )
+  ( 11 +5V )
+  ( 12 ? )
+  ( 13 GND )
+  ( 14 N-000012 )
+  ( 15 N-000007 )
+  ( 16 N-000052 )
+  ( 17 N-000052 )
+  ( 18 ? )
+  ( 19 N-000046 )
+  ( 20 N-000005 )
+  ( 21 XTAL )
+  ( 22 EXTAL )
+  ( 23 GND )
+  ( 24 ? )
+ )
+ ( /50326133 SSOP24 U2 MSP430AFE253
+  ( 1 /A0P )
+  ( 2 /A0N )
+  ( 3 /A1P )
+  ( 4 /A1N )
+  ( 5 VCC )
+  ( 6 GND )
+  ( 7 N-000040 )
+  ( 8 /A2P )
+  ( 9 /A2N )
+  ( 10 N-000030 )
+  ( 11 N-000051 )
+  ( 12 N-000014 )
+  ( 13 GND )
+  ( 14 XT2IN )
+  ( 15 XT2OUT )
+  ( 16 VCC )
+  ( 17 /P1.1 )
+  ( 18 N-000032 )
+  ( 19 N-000031 )
+  ( 20 N-000049 )
+  ( 21 /P1.5 )
+  ( 22 /P1.6 )
+  ( 23 N-000035 )
+  ( 24 /P2.0 )
+ )
+ ( /5051202C CER_RES_2.5MM_SMT X1 4MHz
+  ( 1 N-000008 )
+  ( 2 GND )
+  ( 3 N-000047 )
+ )
+ ( /5050EAEB CER_RES_2.5MM_SMT X2 3.686MHz
+  ( 1 N-000010 )
+  ( 2 GND )
+  ( 3 N-000009 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ 0402
+ 0603
+ 0805
+ 1206
+ CAP_CER*
+ CAP_MYL*
+ CAP_PLY*
+$endlist
+$component C2
+ 0402
+ 0603
+ 0805
+ 1206
+ CAP_CER*
+ CAP_MYL*
+ CAP_PLY*
+$endlist
+$component C3
+ 0402
+ 0603
+ 0805
+ 1206
+ CAP_CER*
+ CAP_MYL*
+ CAP_PLY*
+$endlist
+$component C4
+ CAP_AEL*
+ 0402_P
+ 0603_P
+ 0805_P
+ 1206_P
+$endlist
+$component C5
+ 0402
+ 0603
+ 0805
+ 1206
+ CAP_CER*
+ CAP_MYL*
+ CAP_PLY*
+$endlist
+$component C6
+ 0402
+ 0603
+ 0805
+ 1206
+ CAP_CER*
+ CAP_MYL*
+ CAP_PLY*
+$endlist
+$component C7
+ CAP_AEL*
+ 0402_P
+ 0603_P
+ 0805_P
+ 1206_P
+$endlist
+$component C8
+ CAP_AEL*
+ 0402_P
+ 0603_P
+ 0805_P
+ 1206_P
+$endlist
+$component C9
+ 0402
+ 0603
+ 0805
+ 1206
+ CAP_CER*
+ CAP_MYL*
+ CAP_PLY*
+$endlist
+$component C10
+ 0402
+ 0603
+ 0805
+ 1206
+ CAP_CER*
+ CAP_MYL*
+ CAP_PLY*
+$endlist
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D2
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component J1
+ USB*
+$endlist
+$component P1
+ HEADER*
+$endlist
+$component P2
+ HEADER*
+$endlist
+$component P4
+ HEADER*
+$endlist
+$component P5
+ HEADER*
+$endlist
+$component P6
+ HEADER*
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R11
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R12
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R13
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R14
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R15
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R16
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R17
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component SW1
+ SW_TACT_PUSH*
+$endlist
+$component SW2
+ SW_TACT_PUSH*
+$endlist
+$component SW3
+ SW_TACT_PUSH*
+$endlist
+$component TB1
+ TB*
+$endlist
+$component U1
+ QFN-24_0.65MM
+$endlist
+$component X1
+ CER_RES*
+$endlist
+$component X2
+ CER_RES*
+$endlist
+$endfootprintlist
+}
