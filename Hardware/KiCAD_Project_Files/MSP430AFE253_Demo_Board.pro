@@ -1,6 +1,6 @@
-update=9/30/2012 4:03:57 PM
+update=12/10/2012 9:10:17 PM
 version=1
-last_client=kicad
+last_client=eeschema
 [cvpcb]
 version=1
 NetITyp=0
@@ -17,17 +17,17 @@ PadDrlX=320
 PadDimH=600
 PadDimV=600
 BoardThickness=630
-TxtPcbV=800
-TxtPcbH=600
-TxtModV=180
-TxtModH=200
+TxtPcbV=400
+TxtPcbH=400
+TxtModV=200
+TxtModH=180
 TxtModW=40
 VEgarde=100
-DrawLar=150
-EdgeLar=150
-TxtLar=120
-MSegLar=150
-LastNetListRead=
+DrawLar=50
+EdgeLar=50
+TxtLar=40
+MSegLar=50
+LastNetListRead=MSP430AFE253_Demo_Board.net
 [pcbnew/libraries]
 LibDir=C:/KiCAD_Libraries/PCB
 LibName1=sockets
@@ -50,6 +50,8 @@ LibName17=Switch
 LibName18=Terminal_Block
 LibName19=Display
 LibName20=Electromechanical
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=C:/KiCAD_Libraries/Schematic
@@ -121,5 +123,3 @@ LibName36=connector
 LibName37=terminal_block
 LibName38=Electromechanical
 LibName39=Active
-[general]
-version=1

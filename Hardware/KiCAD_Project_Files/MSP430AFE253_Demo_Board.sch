@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 9/28/2012 7:27:18 PM
+EESchema Schematic File Version 2  date 12/5/2012 8:16:33 PM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -45,7 +45,7 @@ $Descr A4 11700 8267
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "29 sep 2012"
+Date "6 dec 2012"
 Rev ""
 Comp ""
 Comment1 ""
@@ -549,7 +549,7 @@ L CERAMIC_RESONATOR X1
 U 1 1 5051202C
 P 3500 3600
 F 0 "X1" H 3500 3700 40  0000 C CNN
-F 1 "4MHz" H 3600 3500 40  0000 C CNN
+F 1 "8MHz" H 3600 3500 40  0000 C CNN
 	1    3500 3600
 	1    0    0    -1  
 $EndComp
@@ -661,7 +661,7 @@ L CERAMIC_RESONATOR X2
 U 1 1 5050EAEB
 P 8150 4850
 F 0 "X2" H 8150 4950 40  0000 C CNN
-F 1 "3.686MHz" H 8350 4750 40  0000 C CNN
+F 1 "8MHz" H 8350 4750 40  0000 C CNN
 	1    8150 4850
 	1    0    0    -1  
 $EndComp

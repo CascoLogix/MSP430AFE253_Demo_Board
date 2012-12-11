@@ -1,0 +1,18 @@
+Drill report for C:\KiCAD_Projects\MSP430AFE253_Demo_Board\Hardware\KiCAD_Project_Files\MSP430AFE253_Demo_Board.brd
+Created on 12/5/2012 8:16:13 PM
+Selected Drill Unit: Imperial (")
+
+Drill report for through holes :
+T1  0.015"  0.38mm  (36 holes)
+T2  0.040"  1.02mm  (33 holes)
+T3  0.045"  1.14mm  (8 holes)
+
+total plated holes count 77
+
+
+Drill report for Not Plated through holes :
+T1  0.035"  0.89mm  (2 holes)
+
+total Not Plated holes count 2
+
+
