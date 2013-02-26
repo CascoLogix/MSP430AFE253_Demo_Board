@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 12/5/2012 8:16:33 PM
+EESchema Schematic File Version 2  date 2/23/2013 11:07:06 PM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,15 +29,23 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:header
-LIBS:BGA-676
-LIBS:Passive
-LIBS:TI_MSP430
-LIBS:Integrated_Circuits
-LIBS:connector
-LIBS:terminal_block
-LIBS:Electromechanical
 LIBS:Active
+LIBS:Atmel_ATtiny
+LIBS:Atmel_AVR
+LIBS:Batteries_Holders
+LIBS:Connector
+LIBS:Displays
+LIBS:Electromechanical
+LIBS:Header
+LIBS:Integrated_Circuits
+LIBS:NXP_ARM
+LIBS:Passive
+LIBS:Power_Supplies
+LIBS:RF_Modules
+LIBS:Terminal_Block
+LIBS:Test_Point
+LIBS:TI_Luminary
+LIBS:TI_MSP430
 LIBS:MSP430AFE253_Demo_Board-cache
 EELAYER 25  0
 EELAYER END

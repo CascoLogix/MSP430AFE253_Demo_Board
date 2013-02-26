@@ -438,7 +438,7 @@ Ne 0 ""
 Po 865 0
 $EndPAD
 $SHAPE3D
-Na "C:\\KiCAD_Libraries\\3D\\Connectors\\USB\\CONNECTOR_USB_TYPE_MINI_B_RA_F_SMT_MOLEX.wrl"
+Na "C:\\Engineering\\KiCAD_Libraries\\3D\\Connectors\\USB\\CONNECTOR_USB_TYPE_MINI_B_RA_F_SMT_MOLEX.wrl"
 Sc 10.000000 10.000000 10.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -486,7 +486,7 @@ Ne 13 "GND"
 Po 1280 885
 $EndPAD
 $SHAPE3D
-Na "C:\\KiCAD_Libraries\\3D\\Electromechanical\\Pushbuttons\\TACTILE_SWITCH.wrl"
+Na "C:\\Engineering\\KiCAD_Libraries\\3D\\Electromechanical\\Pushbuttons\\TACTILE_SWITCH.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -534,7 +534,7 @@ Ne 13 "GND"
 Po 1280 885
 $EndPAD
 $SHAPE3D
-Na "C:\\KiCAD_Libraries\\3D\\Electromechanical\\Pushbuttons\\TACTILE_SWITCH.wrl"
+Na "C:\\Engineering\\KiCAD_Libraries\\3D\\Electromechanical\\Pushbuttons\\TACTILE_SWITCH.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -582,7 +582,7 @@ Ne 13 "GND"
 Po 1280 885
 $EndPAD
 $SHAPE3D
-Na "C:\\KiCAD_Libraries\\3D\\Electromechanical\\Pushbuttons\\TACTILE_SWITCH.wrl"
+Na "C:\\Engineering\\KiCAD_Libraries\\3D\\Electromechanical\\Pushbuttons\\TACTILE_SWITCH.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -781,7 +781,7 @@ Ne 0 ""
 Po -640 -984
 $EndPAD
 $SHAPE3D
-Na "C:\\KiCAD_Libraries\\3D\\ICs\\QFN24_5MM_0.65MM.wrl"
+Na "C:\\Engineering\\KiCAD_Libraries\\3D\\ICs\\QFN24_5MM_0.65MM.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1885,7 +1885,7 @@ Ne 10 "/P1.6"
 Po -1500 0
 $EndPAD
 $SHAPE3D
-Na "C:\\KiCAD_Libraries\\3D\\Headers\\HEADER_M_100MIL_1R8P_0.230H_0.120T_GOLD_PTH.wrl"
+Na "C:\\Engineering\\KiCAD_Libraries\\3D\\Headers\\HEADER_M_100MIL_1R8P_0.230H_0.120T_GOLD_PTH.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1927,7 +1927,7 @@ Ne 13 "GND"
 Po 1000 0
 $EndPAD
 $SHAPE3D
-Na "C:\\KiCAD_Libraries\\3D\\Headers\\HEADER_M_100MIL_1R3P_0.230H_0.120T_GOLD_PTH.wrl"
+Na "C:\\Engineering\\KiCAD_Libraries\\3D\\Headers\\HEADER_M_100MIL_1R3P_0.230H_0.120T_GOLD_PTH.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1962,7 +1962,7 @@ Ne 38 "N-000050"
 Po 500 0
 $EndPAD
 $SHAPE3D
-Na "C:\\KiCAD_Libraries\\3D\\Headers\\HEADER_M_100MIL_1R2P_0.230H_0.120T_GOLD_PTH.wrl"
+Na "C:\\Engineering\\KiCAD_Libraries\\3D\\Headers\\HEADER_M_100MIL_1R2P_0.230H_0.120T_GOLD_PTH.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -1997,7 +1997,7 @@ Ne 28 "N-000032"
 Po 500 0
 $EndPAD
 $SHAPE3D
-Na "C:\\KiCAD_Libraries\\3D\\Headers\\HEADER_M_100MIL_1R2P_0.230H_0.120T_GOLD_PTH.wrl"
+Na "C:\\Engineering\\KiCAD_Libraries\\3D\\Headers\\HEADER_M_100MIL_1R2P_0.230H_0.120T_GOLD_PTH.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2032,7 +2032,7 @@ Ne 43 "VCC"
 Po 500 0
 $EndPAD
 $SHAPE3D
-Na "C:\\KiCAD_Libraries\\3D\\Headers\\HEADER_M_100MIL_1R2P_0.230H_0.120T_GOLD_PTH.wrl"
+Na "C:\\Engineering\\KiCAD_Libraries\\3D\\Headers\\HEADER_M_100MIL_1R2P_0.230H_0.120T_GOLD_PTH.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2333,7 +2333,7 @@ Ne 27 "N-000031"
 Po 500 0
 $EndPAD
 $SHAPE3D
-Na "C:\\KiCAD_Libraries\\3D\\Headers\\HEADER_M_100MIL_1R4P_0.230H_0.120T_GOLD_PTH.wrl"
+Na "C:\\Engineering\\KiCAD_Libraries\\3D\\Headers\\HEADER_M_100MIL_1R4P_0.230H_0.120T_GOLD_PTH.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2475,7 +2475,7 @@ Ne 5 "/A1P"
 Po -1500 0
 $EndPAD
 $SHAPE3D
-Na "C:\\KiCAD_Libraries\\3D\\Terminal Blocks\\TB_100MIL_1R8P_PTH.wrl"
+Na "C:\\Engineering\\KiCAD_Libraries\\3D\\Terminal Blocks\\TB_100MIL_1R8P_PTH.wrl"
 Sc 1.000000 1.000000 1.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2513,7 +2513,7 @@ Ne 16 "N-000009"
 Po 472 0
 $EndPAD
 $SHAPE3D
-Na "C:\\KiCAD_Libraries\\3D\\Discrete\\Passive\\Ceramic_Resonators\\CER_RES_1.2_SMT.wrl"
+Na "C:\\Engineering\\KiCAD_Libraries\\3D\\Discrete\\Passive\\Ceramic_Resonators\\CER_RES_1.2_SMT.wrl"
 Sc 9.000000 9.000000 9.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
@@ -2551,7 +2551,7 @@ Ne 36 "N-000048"
 Po 472 0
 $EndPAD
 $SHAPE3D
-Na "C:\\KiCAD_Libraries\\3D\\Discrete\\Passive\\Ceramic_Resonators\\CER_RES_1.2_SMT.wrl"
+Na "C:\\Engineering\\KiCAD_Libraries\\3D\\Discrete\\Passive\\Ceramic_Resonators\\CER_RES_1.2_SMT.wrl"
 Sc 9.000000 9.000000 9.000000
 Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
