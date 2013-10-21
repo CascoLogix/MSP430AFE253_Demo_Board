@@ -1,0 +1,19 @@
+### Module positions - created on 2/23/2013 11:14:22 PM ###
+### Printed by Pcbnew version pcbnew (2012-01-19 BZR 3256)-stable
+## Unit = inches, Angle = deg.
+## Side : Front
+# Ref    Val                  PosX       PosY        Rot     Side
+D1       GREEN                0.6400    -1.8800      90.0    Front
+D2       RED                  0.5400    -1.8800      90.0    Front
+D3       BLUE                 0.9000    -1.5000      90.0    Front
+R3       47k                  0.8100    -1.6900      90.0    Front
+R4       47k                  0.7400    -1.6900      90.0    Front
+R5       47k                  0.5250    -1.5250      90.0    Front
+R6       0                    0.6000    -1.2400       0.0    Front
+R8       0                    0.6000    -1.1600       0.0    Front
+R9       33                   0.4000    -1.5000       0.0    Front
+R10      33                   0.4000    -1.5700       0.0    Front
+R12      0                    0.6000    -0.8300     270.0    Front
+R14      0                    0.4000    -0.8300     270.0    Front
+U2       MSP430AFE253         0.5000    -0.5900       0.0    Front
+## End
