@@ -1,24 +1,6 @@
-### Module positions - created on 2/23/2013 11:14:22 PM ###
-### Printed by Pcbnew version pcbnew (2012-01-19 BZR 3256)-stable
+### Module positions - created on 7/26/2014 11:01:55 PM ###
+### Printed by Pcbnew version pcbnew (2013-09-13 BZR 4316)-product
 ## Unit = inches, Angle = deg.
-## Side : Back
-# Ref    Val                  PosX       PosY        Rot     Side
-C1       .1u                  0.9000    -1.4000       0.0    Back
-C2       .1u                  0.8000    -1.5500      90.0    Back
-C3       .1u                  0.9000    -1.4750       0.0    Back
-C4       4.7u                 0.6500    -1.3400     180.0    Back
-C5       .1u                  0.7900    -1.3700      90.0    Back
-C6       .1u                  0.6250    -1.5500     180.0    Back
-C7       4.7u                 0.6500    -1.4500     180.0    Back
-C8       4.7u                 0.6000    -0.6900       0.0    Back
-C9       .1u                  0.8500    -0.7000       0.0    Back
-C10      .1u                  0.8500    -1.1000       0.0    Back
-R1       1.8k                 0.6400    -1.8800      90.0    Back
-R2       1.8k                 0.5400    -1.8800      90.0    Back
-R7       1M                   0.4300    -1.3000     270.0    Back
-R11      47k                  0.4900    -0.4900       0.0    Back
-R13      1M                   0.5000    -1.0100     180.0    Back
-R15      47k                  0.7300    -0.7500       0.0    Back
-R16      47k                  0.7300    -1.1500       0.0    Back
-R17      750                  0.9000    -1.6000      90.0    Back
+## Side : Front
+# Ref    Val                  Package         PosX       PosY        Rot     Side
 ## End

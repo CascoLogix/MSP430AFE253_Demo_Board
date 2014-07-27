@@ -1,512 +1,623 @@
-# EESchema Netlist Version 1.1 created  12/4/2012 11:08:51 PM
-(
- ( /503ADAE1 0603 C1 .1u
-  ( 1 N-000030 )
-  ( 2 GND )
- )
- ( /503ADAB5 0603 C2 .1u
-  ( 1 N-000055 )
-  ( 2 GND )
- )
- ( /503ADAAE 0603 C3 .1u
-  ( 1 N-000029 )
-  ( 2 GND )
- )
- ( /503700CA P0805 C4 4.7u
-  ( 1 +5V )
-  ( 2 GND )
- )
- ( /50514E9F 0603 C5 .1u
-  ( 1 +5V )
-  ( 2 GND )
- )
- ( /50514EA6 0603 C6 .1u
-  ( 1 VCC )
-  ( 2 GND )
- )
- ( /503C383E P0805 C7 4.7u
-  ( 1 VCC )
-  ( 2 GND )
- )
- ( /503C3464 P0805 C8 4.7u
-  ( 1 VCC )
-  ( 2 GND )
- )
- ( /505123A4 0603 C9 .1u
-  ( 1 N-000049 )
-  ( 2 GND )
- )
- ( /503ADD8F 0603 C10 .1u
-  ( 1 N-000051 )
-  ( 2 GND )
- )
- ( /503AD9B9 LED-0603 D1 GREEN
-  ( 1 N-000041 )
-  ( 2 N-000040 )
- )
- ( /5032783D LED-0603 D2 RED
-  ( 1 N-000024 )
-  ( 2 N-000037 )
- )
- ( /503ADDE1 LED-0603 D3 BLUE
-  ( 1 N-000036 )
-  ( 2 N-000017 )
- )
- ( /505133F0 USB_MINI_B_RA_SMT J1 USB_MINI_B
-  ( 1 +5V )
-  ( 2 N-000015 )
-  ( 3 N-000047 )
-  ( 4 ? )
-  ( 5 GND )
-  ( 6 GND )
-  ( 7 GND )
-  ( 8 GND )
-  ( 9 GND )
- )
- ( /503272FA HEADER_100MIL_1R3P_PTH P1 POWER
-  ( 1 VCC )
-  ( 2 VCC )
-  ( 3 GND )
- )
- ( /5050FA89 HEADER_100MIL_1R2P_PTH P2 3.3V
-  ( 1 N-000053 )
-  ( 2 VCC )
- )
- ( /505241FA HEADER_100MIL_1R4P_PTH P3 HEADER_1X4
-  ( 1 VCC )
-  ( 2 N-000052 )
-  ( 3 N-000031 )
-  ( 4 GND )
- )
- ( /503C2E4B HEADER_100MIL_1R2P_PTH P4 TX
-  ( 1 N-000005 )
-  ( 2 N-000032 )
- )
- ( /503C2E4F HEADER_100MIL_1R2P_PTH P5 RX
-  ( 1 N-000006 )
-  ( 2 N-000050 )
- )
- ( /503C2FE1 HEADER_100MIL_1R8P_PTH P6 DEBUG
-  ( 1 /P1.1 )
-  ( 2 /P1.5 )
-  ( 3 /P1.6 )
-  ( 4 /P2.0 )
-  ( 5 XT2IN )
-  ( 6 XT2OUT )
-  ( 7 VCC )
-  ( 8 GND )
- )
- ( /504EAEDC SM0603 R1 1.8k
-  ( 1 GND )
-  ( 2 N-000040 )
- )
- ( /504EAEF0 SM0603 R2 1.8k
-  ( 1 GND )
-  ( 2 N-000037 )
- )
- ( /504EACF4 SM0603 R3 47k
-  ( 1 N-000030 )
-  ( 2 +5V )
- )
- ( /504EAD1B SM0603 R4 47k
-  ( 1 N-000055 )
-  ( 2 +5V )
- )
- ( /504EAD1D SM0603 R5 47k
-  ( 1 N-000029 )
-  ( 2 +5V )
- )
- ( /5051202A SM0603 R6 0
-  ( 1 N-000012 )
-  ( 2 XTAL )
- )
- ( /50512029 SM0603 R7 1M
-  ( 1 N-000012 )
-  ( 2 N-000048 )
- )
- ( /5051202B SM0603 R8 0
-  ( 1 N-000048 )
-  ( 2 EXTAL )
- )
- ( /504EAD43 SM0603 R9 33
-  ( 1 N-000047 )
-  ( 2 N-000013 )
- )
- ( /504EAD6E SM0603 R10 33
-  ( 1 N-000015 )
-  ( 2 N-000014 )
- )
- ( /50511E26 SM0603 R11 47k
-  ( 1 VCC )
-  ( 2 N-000052 )
- )
- ( /50511FBF SM0603 R12 0
-  ( 1 N-000010 )
-  ( 2 XT2IN )
- )
- ( /50511FC0 SM0603 R13 1M
-  ( 1 N-000010 )
-  ( 2 N-000009 )
- )
- ( /50511FBE SM0603 R14 0
-  ( 1 N-000009 )
-  ( 2 XT2OUT )
- )
- ( /504EAD81 SM0603 R15 47k
-  ( 1 N-000033 )
-  ( 2 N-000049 )
- )
- ( /504EAD92 SM0603 R16 47k
-  ( 1 N-000016 )
-  ( 2 N-000051 )
- )
- ( /504EADA8 SM0603 R17 750
-  ( 1 N-000017 )
-  ( 2 GND )
- )
- ( /5050E9D1 SW_TACT_PUSH_6MM_PTH SW1 FSM4JH
-  ( 1 N-000051 )
-  ( 2 N-000051 )
-  ( 3 GND )
-  ( 4 GND )
- )
- ( /505123A2 SW_TACT_PUSH_6MM_PTH SW2 FSM4JH
-  ( 1 N-000049 )
-  ( 2 N-000049 )
-  ( 3 GND )
-  ( 4 GND )
- )
- ( /5050E9C8 SW_TACT_PUSH_6MM_PTH SW3 FSM4JH
-  ( 1 N-000052 )
-  ( 2 N-000052 )
-  ( 3 GND )
-  ( 4 GND )
- )
- ( /503702D0 TB_100MIL_1R8P_PTH TB1 ANALOG
-  ( 1 /A0P )
-  ( 2 /A0N )
-  ( 3 /A1P )
-  ( 4 /A1N )
-  ( 5 /A2P )
-  ( 6 /A2N )
-  ( 7 N-000042 )
-  ( 8 GND )
- )
- ( /503446D4 QFN-24_0.65MM U1 USB2SERA10CFK
-  ( 1 N-000030 )
-  ( 2 N-000055 )
-  ( 3 N-000029 )
-  ( 4 ? )
-  ( 5 N-000041 )
-  ( 6 ? )
-  ( 7 N-000024 )
-  ( 8 ? )
-  ( 9 ? )
-  ( 10 ? )
-  ( 11 +5V )
-  ( 12 ? )
-  ( 13 GND )
-  ( 14 N-000014 )
-  ( 15 N-000013 )
-  ( 16 N-000053 )
-  ( 17 N-000053 )
-  ( 18 ? )
-  ( 19 N-000005 )
-  ( 20 N-000006 )
-  ( 21 XTAL )
-  ( 22 EXTAL )
-  ( 23 GND )
-  ( 24 ? )
- )
- ( /50326133 SSOP24 U2 MSP430AFE253
-  ( 1 /A0P )
-  ( 2 /A0N )
-  ( 3 /A1P )
-  ( 4 /A1N )
-  ( 5 VCC )
-  ( 6 GND )
-  ( 7 N-000042 )
-  ( 8 /A2P )
-  ( 9 /A2N )
-  ( 10 N-000031 )
-  ( 11 N-000052 )
-  ( 12 N-000016 )
-  ( 13 GND )
-  ( 14 XT2IN )
-  ( 15 XT2OUT )
-  ( 16 VCC )
-  ( 17 /P1.1 )
-  ( 18 N-000033 )
-  ( 19 N-000032 )
-  ( 20 N-000050 )
-  ( 21 /P1.5 )
-  ( 22 /P1.6 )
-  ( 23 N-000036 )
-  ( 24 /P2.0 )
- )
- ( /5051202C CER_RES_0.95MM_SMT X1 4MHz
-  ( 1 N-000012 )
-  ( 2 GND )
-  ( 3 N-000048 )
- )
- ( /5050EAEB CER_RES_0.95MM_SMT X2 3.686MHz
-  ( 1 N-000010 )
-  ( 2 GND )
-  ( 3 N-000009 )
- )
-)
-*
-{ Allowed footprints by component:
-$component C1
- 0402
- 0603
- 0805
- 1206
- CAP_CER*
- CAP_MYL*
- CAP_PLY*
-$endlist
-$component C2
- 0402
- 0603
- 0805
- 1206
- CAP_CER*
- CAP_MYL*
- CAP_PLY*
-$endlist
-$component C3
- 0402
- 0603
- 0805
- 1206
- CAP_CER*
- CAP_MYL*
- CAP_PLY*
-$endlist
-$component C4
- CAP_AEL*
- 0402_P
- 0603_P
- 0805_P
- 1206_P
-$endlist
-$component C5
- 0402
- 0603
- 0805
- 1206
- CAP_CER*
- CAP_MYL*
- CAP_PLY*
-$endlist
-$component C6
- 0402
- 0603
- 0805
- 1206
- CAP_CER*
- CAP_MYL*
- CAP_PLY*
-$endlist
-$component C7
- CAP_AEL*
- 0402_P
- 0603_P
- 0805_P
- 1206_P
-$endlist
-$component C8
- CAP_AEL*
- 0402_P
- 0603_P
- 0805_P
- 1206_P
-$endlist
-$component C9
- 0402
- 0603
- 0805
- 1206
- CAP_CER*
- CAP_MYL*
- CAP_PLY*
-$endlist
-$component C10
- 0402
- 0603
- 0805
- 1206
- CAP_CER*
- CAP_MYL*
- CAP_PLY*
-$endlist
-$component D1
- LED*
-$endlist
-$component D2
- LED*
-$endlist
-$component D3
- LED*
-$endlist
-$component J1
- USB*
-$endlist
-$component P1
- HEADER*
-$endlist
-$component P2
- HEADER*
-$endlist
-$component P4
- HEADER*
-$endlist
-$component P5
- HEADER*
-$endlist
-$component P6
- HEADER*
-$endlist
-$component R1
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R2
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R3
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R4
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R5
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R6
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R7
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R8
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R9
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R10
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R11
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R12
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R13
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R14
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R15
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R16
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component R17
- R?
- SM0603
- SM0805
- R?-*
- SM1206
-$endlist
-$component SW1
- SW_TACT_PUSH*
-$endlist
-$component SW2
- SW_TACT_PUSH*
-$endlist
-$component SW3
- SW_TACT_PUSH*
-$endlist
-$component TB1
- TB*
-$endlist
-$component U1
- QFN-24_0.65MM
-$endlist
-$component X1
- CER_RES*
-$endlist
-$component X2
- CER_RES*
-$endlist
-$endfootprintlist
-}
+(export (version D)
+  (design
+    (source P:\Engineering_SECURE\Projects\MSP430AFE253_Demo_Board\Hardware\KiCAD_Project_Files\MSP430AFE253_Demo_Board.sch)
+    (date "7/18/2014 10:22:42 PM")
+    (tool "eeschema (2013-09-13 BZR 4316)-product"))
+  (components
+    (comp (ref P3)
+      (value HEADER_1X4)
+      (libsource (lib Header) (part HEADER_1X4))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 505241FA))
+    (comp (ref C6)
+      (value .1u)
+      (libsource (lib Passive) (part CAP))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 50514EA6))
+    (comp (ref C5)
+      (value .1u)
+      (libsource (lib Passive) (part CAP))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 50514E9F))
+    (comp (ref J1)
+      (value USB_MINI_B)
+      (libsource (lib MSP430AFE253_Demo_Board-cache) (part USB_MINI_B))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 505133F0))
+    (comp (ref C9)
+      (value .1u)
+      (libsource (lib Passive) (part CAP))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 505123A4))
+    (comp (ref R13)
+      (value 1M)
+      (libsource (lib Passive) (part RES_SMALL))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 50511FC0))
+    (comp (ref R12)
+      (value 0)
+      (libsource (lib Passive) (part RES_SMALL))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 50511FBF))
+    (comp (ref R14)
+      (value 0)
+      (libsource (lib Passive) (part RES_SMALL))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 50511FBE))
+    (comp (ref R11)
+      (value 47k)
+      (libsource (lib Passive) (part RES_SMALL))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 50511E26))
+    (comp (ref P2)
+      (value 3.3V)
+      (libsource (lib Header) (part HEADER_1X2))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 5050FA89))
+    (comp (ref X2)
+      (value 8MHz)
+      (libsource (lib Passive) (part CERAMIC_RESONATOR))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 5050EAEB))
+    (comp (ref R2)
+      (value 1.8k)
+      (libsource (lib Passive) (part RES_SMALL))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 504EAEF0))
+    (comp (ref R1)
+      (value 1.8k)
+      (libsource (lib Passive) (part RES_SMALL))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 504EAEDC))
+    (comp (ref R17)
+      (value 750)
+      (libsource (lib Passive) (part RES_SMALL))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 504EADA8))
+    (comp (ref R16)
+      (value 47k)
+      (libsource (lib Passive) (part RES_SMALL))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 504EAD92))
+    (comp (ref R15)
+      (value 47k)
+      (libsource (lib Passive) (part RES_SMALL))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 504EAD81))
+    (comp (ref R10)
+      (value 33)
+      (libsource (lib Passive) (part RES_SMALL))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 504EAD6E))
+    (comp (ref R9)
+      (value 33)
+      (libsource (lib Passive) (part RES_SMALL))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 504EAD43))
+    (comp (ref P6)
+      (value DEBUG)
+      (libsource (lib Header) (part HEADER_1X8))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 503C2FE1))
+    (comp (ref P5)
+      (value RX)
+      (libsource (lib Header) (part HEADER_1X2))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 503C2E4F))
+    (comp (ref P4)
+      (value TX)
+      (libsource (lib Header) (part HEADER_1X2))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 503C2E4B))
+    (comp (ref D3)
+      (value BLUE)
+      (libsource (lib device) (part LED))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 503ADDE1))
+    (comp (ref C10)
+      (value .1u)
+      (libsource (lib Passive) (part CAP))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 503ADD8F))
+    (comp (ref D1)
+      (value GREEN)
+      (libsource (lib device) (part LED))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 503AD9B9))
+    (comp (ref TB1)
+      (value ANALOG)
+      (libsource (lib Terminal_Block) (part OSTVN_1X8))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 503702D0))
+    (comp (ref D2)
+      (value RED)
+      (libsource (lib device) (part LED))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 5032783D))
+    (comp (ref P1)
+      (value POWER)
+      (libsource (lib Header) (part HEADER_1X3))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 503272FA))
+    (comp (ref U2)
+      (value MSP430AFE253)
+      (libsource (lib TI_MSP430) (part MSP430AFE253))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 50326133))
+    (comp (ref C1)
+      (value .1u)
+      (libsource (lib Passive) (part CAP))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 52788838))
+    (comp (ref R3)
+      (value 47k)
+      (libsource (lib Passive) (part RES_SMALL))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 527889AB))
+    (comp (ref SW3)
+      (value FSMSM)
+      (libsource (lib Electromechanical) (part FSMSM))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 53C741EA))
+    (comp (ref SW1)
+      (value FSMSM)
+      (libsource (lib Electromechanical) (part FSMSM))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 53C742C1))
+    (comp (ref SW2)
+      (value FSMSM)
+      (libsource (lib Electromechanical) (part FSMSM))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 53C742CC))
+    (comp (ref C13)
+      (value 0.1u)
+      (libsource (lib Passive) (part CAP))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 53C7E7BA))
+    (comp (ref C11)
+      (value 0.1u)
+      (libsource (lib Passive) (part CAP))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 53C7EF52))
+    (comp (ref U1)
+      (value FT230XQ)
+      (libsource (lib Active) (part FT230XQ))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 5278733E))
+    (comp (ref C2)
+      (value .1u)
+      (libsource (lib Passive) (part CAP))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 53C7F326))
+    (comp (ref C12)
+      (value 4.7u)
+      (libsource (lib Passive) (part CAP))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 53C7F94D))
+    (comp (ref C8)
+      (value 4.7u)
+      (libsource (lib Passive) (part CAP))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 53C7F96E))
+    (comp (ref C3)
+      (value 4.7u)
+      (libsource (lib Passive) (part CAP))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 53C7F97E))
+    (comp (ref C7)
+      (value 4.7u)
+      (libsource (lib Passive) (part CAP))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 53C7F993))
+    (comp (ref C4)
+      (value 4.7u)
+      (libsource (lib Passive) (part CAP))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 53C7F9AD)))
+  (libparts
+    (libpart (lib device) (part LED)
+      (footprints
+        (fp LED-3MM)
+        (fp LED-5MM)
+        (fp LED-10MM)
+        (fp LED-0603)
+        (fp LED-0805)
+        (fp LED-1206)
+        (fp LEDV))
+      (fields
+        (field (name Reference) D)
+        (field (name Value) LED))
+      (pins
+        (pin (num 1) (name A) (type passive))
+        (pin (num 2) (name K) (type passive))))
+    (libpart (lib Active) (part FT230XQ)
+      (description "USB to serial converter")
+      (footprints
+        (fp QFN-16*))
+      (fields
+        (field (name Reference) U)
+        (field (name Value) FT230XQ))
+      (pins
+        (pin (num 1) (name VCCIO) (type input))
+        (pin (num 2) (name RXD) (type input))
+        (pin (num 3) (name GND) (type input))
+        (pin (num 4) (name ~CTS) (type input))
+        (pin (num 5) (name CBUS2) (type input))
+        (pin (num 6) (name USBDP) (type input))
+        (pin (num 7) (name USBDM) (type input))
+        (pin (num 8) (name 3V3OUT) (type input))
+        (pin (num 9) (name ~RESET) (type input))
+        (pin (num 10) (name VCC) (type input))
+        (pin (num 11) (name CBUS1) (type input))
+        (pin (num 12) (name CBUS0) (type input))
+        (pin (num 13) (name GND) (type input))
+        (pin (num 14) (name CBUS3) (type input))
+        (pin (num 15) (name TXD) (type input))
+        (pin (num 16) (name ~RTS) (type input))
+        (pin (num 17) (name GND) (type input))))
+    (libpart (lib Electromechanical) (part FSMSM)
+      (docs C:/Engineering/Datasheets/Electromechanical/Switches/Tyco_FSM-Series.pdf)
+      (footprints
+        (fp FSMSM))
+      (fields
+        (field (name Reference) SW)
+        (field (name Value) FSMSM))
+      (pins
+        (pin (num 1) (name 1) (type input))
+        (pin (num 2) (name 2) (type input))))
+    (libpart (lib Header) (part HEADER_1x2)
+      (footprints
+        (fp HEADER*))
+      (fields
+        (field (name Reference) P)
+        (field (name Value) HEADER_1x2))
+      (pins
+        (pin (num 1) (name P1) (type passive))
+        (pin (num 2) (name P2) (type passive))))
+    (libpart (lib Header) (part HEADER_1x3)
+      (footprints
+        (fp HEADER*))
+      (fields
+        (field (name Reference) P)
+        (field (name Value) HEADER_1x3))
+      (pins
+        (pin (num 1) (name P1) (type passive))
+        (pin (num 2) (name P2) (type passive))
+        (pin (num 3) (name P3) (type passive))))
+    (libpart (lib Header) (part HEADER_1x4)
+      (footprints
+        (fp HEADER_1x4))
+      (fields
+        (field (name Reference) P)
+        (field (name Value) HEADER_1x4))
+      (pins
+        (pin (num 1) (name P1) (type passive))
+        (pin (num 2) (name P2) (type passive))
+        (pin (num 3) (name P3) (type passive))
+        (pin (num 4) (name P4) (type passive))))
+    (libpart (lib Header) (part HEADER_1x8)
+      (footprints
+        (fp HEADER*))
+      (fields
+        (field (name Reference) P)
+        (field (name Value) HEADER_1x8))
+      (pins
+        (pin (num 1) (name P1) (type passive))
+        (pin (num 2) (name P2) (type passive))
+        (pin (num 3) (name P3) (type passive))
+        (pin (num 4) (name P4) (type passive))
+        (pin (num 5) (name P5) (type passive))
+        (pin (num 6) (name P6) (type passive))
+        (pin (num 7) (name P7) (type passive))
+        (pin (num 8) (name P8) (type passive))))
+    (libpart (lib Passive) (part CAP)
+      (footprints
+        (fp 0402)
+        (fp 0603)
+        (fp 0805)
+        (fp 1206)
+        (fp CAP_CER*)
+        (fp CAP_MYL*)
+        (fp CAP_PLY*))
+      (fields
+        (field (name Reference) C)
+        (field (name Value) CAP))
+      (pins
+        (pin (num 1) (name ~) (type passive))
+        (pin (num 2) (name ~) (type passive))))
+    (libpart (lib Passive) (part CERAMIC_RESONATOR)
+      (footprints
+        (fp CER_RES*))
+      (fields
+        (field (name Reference) X)
+        (field (name Value) CERAMIC_RESONATOR))
+      (pins
+        (pin (num 1) (name 1) (type passive))
+        (pin (num 2) (name ~) (type passive))
+        (pin (num 3) (name 3) (type passive))))
+    (libpart (lib Passive) (part RES_Small)
+      (description Resistance)
+      (footprints
+        (fp RES*))
+      (fields
+        (field (name Reference) R)
+        (field (name Value) RES_Small))
+      (pins
+        (pin (num 1) (name ~) (type passive))
+        (pin (num 2) (name ~) (type passive))))
+    (libpart (lib Terminal_Block) (part OSTVN_1x8)
+      (footprints
+        (fp TB*))
+      (fields
+        (field (name Reference) TB)
+        (field (name Value) OSTVN_1x8))
+      (pins
+        (pin (num 1) (name P1) (type passive))
+        (pin (num 2) (name P2) (type passive))
+        (pin (num 3) (name P3) (type passive))
+        (pin (num 4) (name P4) (type passive))
+        (pin (num 5) (name P5) (type passive))
+        (pin (num 6) (name P6) (type passive))
+        (pin (num 7) (name P7) (type passive))
+        (pin (num 8) (name P8) (type passive))))
+    (libpart (lib TI_MSP430) (part MSP430AFE253)
+      (footprints
+        (fp TSSOP24)
+        (fp SSOP24))
+      (fields
+        (field (name Reference) U)
+        (field (name Value) MSP430AFE253))
+      (pins
+        (pin (num 1) (name A0.0+) (type BiDi))
+        (pin (num 2) (name A0.0-) (type BiDi))
+        (pin (num 3) (name A1.0+) (type BiDi))
+        (pin (num 4) (name A1.0-) (type BiDi))
+        (pin (num 5) (name AVCC) (type BiDi))
+        (pin (num 6) (name AVSS) (type power_in))
+        (pin (num 7) (name VREF) (type power_in))
+        (pin (num 8) (name A2.0+) (type BiDi))
+        (pin (num 9) (name A2.0-) (type BiDi))
+        (pin (num 10) (name TEST) (type BiDi))
+        (pin (num 11) (name ~RST) (type BiDi))
+        (pin (num 12) (name P1.0) (type BiDi))
+        (pin (num 13) (name DVSS) (type BiDi))
+        (pin (num 14) (name P2.6) (type BiDi))
+        (pin (num 15) (name P2.7) (type BiDi))
+        (pin (num 16) (name DVCC) (type BiDi))
+        (pin (num 17) (name P1.1) (type BiDi))
+        (pin (num 18) (name P1.2) (type input))
+        (pin (num 19) (name P1.3) (type BiDi))
+        (pin (num 20) (name P1.4) (type BiDi))
+        (pin (num 21) (name P1.5) (type BiDi))
+        (pin (num 22) (name P1.6) (type BiDi))
+        (pin (num 23) (name P1.7) (type BiDi))
+        (pin (num 24) (name P2.0) (type BiDi))))
+    (libpart (lib MSP430AFE253_Demo_Board-cache) (part USB_Mini_B)
+      (footprints
+        (fp USB_MINI_B_RA_SMT)
+        (fp USB_MINI_A_SMT))
+      (fields
+        (field (name Reference) J)
+        (field (name Value) USB_Mini_B)
+        (field (name "Custom Field 1") "1 VBUS")
+        (field (name "Custom Field 2") "2 D-")
+        (field (name "Custom Field 3") "3 D+")
+        (field (name "Custom Field 4") "4 ID")
+        (field (name "Custom Field 5") "5 GND"))
+      (pins
+        (pin (num 1) (name VBUS) (type power_out))
+        (pin (num 2) (name DN) (type BiDi))
+        (pin (num 3) (name DP) (type BiDi))
+        (pin (num 4) (name ID) (type passive))
+        (pin (num 5) (name GND) (type passive))
+        (pin (num 6) (name GND) (type passive))
+        (pin (num 7) (name GND) (type passive))
+        (pin (num 8) (name GND) (type passive))
+        (pin (num 9) (name GND) (type passive)))))
+  (libraries
+    (library (logical device)
+      (uri "C:\\Program Files (x86)\\KiCad\\share\\library\\device.lib"))
+    (library (logical Active)
+      (uri C:\Engineering\KiCAD_Libraries\Schematic\Active.lib))
+    (library (logical Electromechanical)
+      (uri C:\Engineering\KiCAD_Libraries\Schematic\Electromechanical.lib))
+    (library (logical Header)
+      (uri C:\Engineering\KiCAD_Libraries\Schematic\Header.lib))
+    (library (logical Passive)
+      (uri C:\Engineering\KiCAD_Libraries\Schematic\Passive.lib))
+    (library (logical Terminal_Block)
+      (uri C:\Engineering\KiCAD_Libraries\Schematic\Terminal_Block.lib))
+    (library (logical TI_MSP430)
+      (uri C:\Engineering\KiCAD_Libraries\Schematic\TI_MSP430.lib))
+    (library (logical MSP430AFE253_Demo_Board-cache)
+      (uri P:\Engineering_SECURE\Projects\MSP430AFE253_Demo_Board\Hardware\KiCAD_Project_Files\MSP430AFE253_Demo_Board-cache.lib)))
+  (nets
+    (net (code 1) (name XT2IN)
+      (node (ref U2) (pin 14))
+      (node (ref R12) (pin 2))
+      (node (ref P6) (pin 5)))
+    (net (code 2) (name XT2OUT)
+      (node (ref R14) (pin 2))
+      (node (ref U2) (pin 15))
+      (node (ref P6) (pin 6)))
+    (net (code 3) (name "")
+      (node (ref R1) (pin 2))
+      (node (ref D1) (pin 2)))
+    (net (code 4) (name "")
+      (node (ref U2) (pin 11))
+      (node (ref R11) (pin 2))
+      (node (ref P3) (pin 2))
+      (node (ref SW3) (pin 1)))
+    (net (code 5) (name "")
+      (node (ref X2) (pin 1))
+      (node (ref R12) (pin 1))
+      (node (ref R13) (pin 1)))
+    (net (code 6) (name "")
+      (node (ref R16) (pin 1))
+      (node (ref U2) (pin 12)))
+    (net (code 7) (name "")
+      (node (ref J1) (pin 2))
+      (node (ref R10) (pin 1)))
+    (net (code 8) (name "")
+      (node (ref SW2) (pin 1))
+      (node (ref C10) (pin 1))
+      (node (ref R16) (pin 2)))
+    (net (code 9) (name "")
+      (node (ref U2) (pin 18))
+      (node (ref R15) (pin 1)))
+    (net (code 10) (name "")
+      (node (ref X2) (pin 3))
+      (node (ref R14) (pin 1))
+      (node (ref R13) (pin 2)))
+    (net (code 11) (name "")
+      (node (ref P5) (pin 2))
+      (node (ref U2) (pin 20)))
+    (net (code 12) (name /P2.0)
+      (node (ref P6) (pin 4))
+      (node (ref U2) (pin 24)))
+    (net (code 13) (name /P1.5)
+      (node (ref U2) (pin 21))
+      (node (ref P6) (pin 2)))
+    (net (code 14) (name "")
+      (node (ref U1) (pin 2))
+      (node (ref P4) (pin 1)))
+    (net (code 15) (name "")
+      (node (ref U1) (pin 12))
+      (node (ref D1) (pin 1)))
+    (net (code 16) (name "")
+      (node (ref U1) (pin 11))
+      (node (ref D2) (pin 1)))
+    (net (code 17) (name "")
+      (node (ref P5) (pin 1))
+      (node (ref U1) (pin 15)))
+    (net (code 18) (name "")
+      (node (ref U1) (pin 9))
+      (node (ref R3) (pin 2))
+      (node (ref C1) (pin 1)))
+    (net (code 19) (name "")
+      (node (ref U1) (pin 16)))
+    (net (code 20) (name "")
+      (node (ref R9) (pin 2))
+      (node (ref U1) (pin 6)))
+    (net (code 21) (name "")
+      (node (ref U1) (pin 7))
+      (node (ref R10) (pin 2)))
+    (net (code 22) (name +5V)
+      (node (ref C4) (pin 1))
+      (node (ref J1) (pin 1))
+      (node (ref C5) (pin 1))
+      (node (ref U1) (pin 10)))
+    (net (code 23) (name "")
+      (node (ref U1) (pin 8))
+      (node (ref U1) (pin 1))
+      (node (ref C6) (pin 1))
+      (node (ref P2) (pin 2))
+      (node (ref R3) (pin 1))
+      (node (ref C7) (pin 1)))
+    (net (code 24) (name VCC)
+      (node (ref C13) (pin 1))
+      (node (ref U2) (pin 16))
+      (node (ref P2) (pin 1))
+      (node (ref R11) (pin 1))
+      (node (ref C2) (pin 1))
+      (node (ref C3) (pin 1))
+      (node (ref C8) (pin 1))
+      (node (ref P1) (pin 1))
+      (node (ref P6) (pin 7))
+      (node (ref P1) (pin 2))
+      (node (ref P3) (pin 1))
+      (node (ref U2) (pin 5)))
+    (net (code 25) (name "")
+      (node (ref C12) (pin 1))
+      (node (ref TB1) (pin 7))
+      (node (ref C11) (pin 1))
+      (node (ref U2) (pin 7)))
+    (net (code 26) (name GND)
+      (node (ref J1) (pin 5))
+      (node (ref X2) (pin 2))
+      (node (ref R2) (pin 1))
+      (node (ref R1) (pin 1))
+      (node (ref U1) (pin 17))
+      (node (ref R17) (pin 2))
+      (node (ref C5) (pin 2))
+      (node (ref C6) (pin 2))
+      (node (ref P3) (pin 4))
+      (node (ref J1) (pin 6))
+      (node (ref SW1) (pin 2))
+      (node (ref SW3) (pin 2))
+      (node (ref TB1) (pin 8))
+      (node (ref SW2) (pin 2))
+      (node (ref P1) (pin 3))
+      (node (ref C1) (pin 2))
+      (node (ref U2) (pin 13))
+      (node (ref U1) (pin 13))
+      (node (ref U1) (pin 3))
+      (node (ref U2) (pin 6))
+      (node (ref C11) (pin 2))
+      (node (ref C13) (pin 2))
+      (node (ref C2) (pin 2))
+      (node (ref C7) (pin 2))
+      (node (ref C9) (pin 2))
+      (node (ref C4) (pin 2))
+      (node (ref J1) (pin 9))
+      (node (ref J1) (pin 7))
+      (node (ref J1) (pin 8))
+      (node (ref P6) (pin 8))
+      (node (ref C10) (pin 2))
+      (node (ref C12) (pin 2))
+      (node (ref C8) (pin 2))
+      (node (ref C3) (pin 2)))
+    (net (code 27) (name "")
+      (node (ref U2) (pin 10))
+      (node (ref P3) (pin 3)))
+    (net (code 28) (name "")
+      (node (ref SW1) (pin 1))
+      (node (ref C9) (pin 1))
+      (node (ref R15) (pin 2)))
+    (net (code 29) (name "")
+      (node (ref D3) (pin 1))
+      (node (ref U2) (pin 23)))
+    (net (code 30) (name "")
+      (node (ref R17) (pin 1))
+      (node (ref D3) (pin 2)))
+    (net (code 31) (name "")
+      (node (ref D2) (pin 2))
+      (node (ref R2) (pin 2)))
+    (net (code 32) (name "")
+      (node (ref J1) (pin 3))
+      (node (ref R9) (pin 1)))
+    (net (code 33) (name "")
+      (node (ref P4) (pin 2))
+      (node (ref U2) (pin 19)))
+    (net (code 34) (name /P1.1)
+      (node (ref U2) (pin 17))
+      (node (ref P6) (pin 1)))
+    (net (code 35) (name /P1.6)
+      (node (ref U2) (pin 22))
+      (node (ref P6) (pin 3)))
+    (net (code 36) (name "")
+      (node (ref J1) (pin 4)))
+    (net (code 37) (name "")
+      (node (ref U1) (pin 5)))
+    (net (code 38) (name "")
+      (node (ref U1) (pin 14)))
+    (net (code 39) (name "")
+      (node (ref U1) (pin 4)))
+    (net (code 40) (name /A1P)
+      (node (ref U2) (pin 3))
+      (node (ref TB1) (pin 3)))
+    (net (code 41) (name /A0P)
+      (node (ref U2) (pin 1))
+      (node (ref TB1) (pin 1)))
+    (net (code 42) (name /A0N)
+      (node (ref U2) (pin 2))
+      (node (ref TB1) (pin 2)))
+    (net (code 43) (name /A1N)
+      (node (ref TB1) (pin 4))
+      (node (ref U2) (pin 4)))
+    (net (code 44) (name /A2P)
+      (node (ref U2) (pin 8))
+      (node (ref TB1) (pin 5)))
+    (net (code 45) (name /A2N)
+      (node (ref U2) (pin 9))
+      (node (ref TB1) (pin 6)))))

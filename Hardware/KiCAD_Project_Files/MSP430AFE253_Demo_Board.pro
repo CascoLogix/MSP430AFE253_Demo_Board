@@ -1,4 +1,4 @@
-update=11/3/2013 5:50:14 PM
+update=7/27/2014 12:40:59 AM
 version=1
 last_client=eeschema
 [cvpcb]
@@ -11,17 +11,15 @@ LibDir=
 NetType=0
 [cvpcb/libraries]
 EquName1=devcms
-[general]
-version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
 LastNetListRead=MSP430AFE253_Demo_Board.net
 UseCmpFile=1
-PadDrill=0.8128
-PadDrillOvalY=0.8128
-PadSizeH=1.524
-PadSizeV=1.524
+PadDrill=0
+PadDrillOvalY=0
+PadSizeH=0.75
+PadSizeV=0.3
 PcbTextSizeV=1.016
 PcbTextSizeH=1.016
 PcbTextThickness=0.1016
@@ -57,6 +55,14 @@ LibName19=Display
 LibName20=Electromechanical
 LibName21=C:/Engineering/KiCAD_Libraries/PCB/Wire_to_Board
 LibName22=CascoLogixLogo_BW1
+LibName23=FIDUCIAL
+LibName24=ohw-logo
+LibName25=Power_Supply
+LibName26=RF_Modules
+LibName27=Test_Point
+LibName28=Wire_to_Board
+[general]
+version=1
 [eeschema]
 version=1
 PageLayoutDescrFile=
