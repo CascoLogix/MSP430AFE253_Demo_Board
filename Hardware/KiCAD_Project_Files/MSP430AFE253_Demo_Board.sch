@@ -53,7 +53,7 @@ $Descr A 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "MSP430AFE253 Demo Board"
-Date "Saturday, July 26, 2014"
+Date "Friday, August 15, 2014"
 Rev "4"
 Comp "Casco Logix"
 Comment1 ""

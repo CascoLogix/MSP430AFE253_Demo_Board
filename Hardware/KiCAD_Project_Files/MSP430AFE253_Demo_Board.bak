@@ -53,8 +53,8 @@ $Descr A 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "MSP430AFE253 Demo Board"
-Date "Saturday, July 26, 2014"
-Rev "3"
+Date "Friday, August 15, 2014"
+Rev "4"
 Comp "Casco Logix"
 Comment1 ""
 Comment2 ""
@@ -772,7 +772,6 @@ $EndComp
 NoConn ~ 3450 2100
 NoConn ~ 3450 2000
 NoConn ~ 3450 2700
-NoConn ~ 3450 2600
 $Comp
 L CAP C1
 U 1 1 52788838
@@ -917,10 +916,6 @@ Wire Wire Line
 	4100 2500 4100 2950
 Wire Wire Line
 	3450 2500 4100 2500
-Wire Wire Line
-	3700 2400 3700 2950
-Wire Wire Line
-	3450 2400 3700 2400
 Connection ~ 2850 2950
 Wire Wire Line
 	2950 2950 2950 2900
@@ -1372,4 +1367,13 @@ F 3 "" H 7550 5250 60  0001 C CNN
 	1    7550 5250
 	1    0    0    -1  
 $EndComp
+Text Notes 4200 3150 0    40   ~ 0
+RX
+Text Notes 3800 3150 0    40   ~ 0
+TX
+Wire Wire Line
+	3450 2600 3700 2600
+Wire Wire Line
+	3700 2600 3700 2950
+NoConn ~ 3450 2400
 $EndSCHEMATC
