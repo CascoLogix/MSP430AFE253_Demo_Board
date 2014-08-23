@@ -52,7 +52,7 @@ EELAYER END
 $Descr A 11000 8500
 encoding utf-8
 Sheet 1 1
-Title "MSP430AFE253 Demo Board"
+Title "MSP430AFE253 Development Board"
 Date "Saturday, August 23, 2014"
 Rev "4"
 Comp "Casco Logix"
