@@ -1,6 +1,6 @@
-update=8/23/2014 2:31:04 PM
+update=9/16/2014 6:35:39 PM
 version=1
-last_client=kicad
+last_client=eeschema
 [cvpcb]
 version=1
 NetITyp=0
@@ -61,6 +61,8 @@ LibName25=Power_Supply
 LibName26=RF_Modules
 LibName27=Test_Point
 LibName28=Wire_to_Board
+[general]
+version=1
 [eeschema]
 version=1
 PageLayoutDescrFile=
@@ -120,5 +122,3 @@ LibName44=Schematic/Terminal_Block
 LibName45=Schematic/Test_Point
 LibName46=Schematic/TI_Luminary
 LibName47=Schematic/TI_MSP430
-[general]
-version=1
