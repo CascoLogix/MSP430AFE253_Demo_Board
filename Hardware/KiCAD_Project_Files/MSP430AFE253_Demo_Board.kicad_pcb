@@ -616,9 +616,9 @@
       (layers Front F.Paste F.Mask)
       (net 12 GND)
     )
-    (model smd\resistors\R0603.wrl
+    (model C:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Capacitors/VRML/C0603.wrl
       (at (xyz 0 0 0.001))
-      (scale (xyz 0.5 0.5 0.5))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
@@ -647,9 +647,9 @@
       (layers Front F.Paste F.Mask)
       (net 12 GND)
     )
-    (model smd\resistors\R0603.wrl
+    (model C:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Capacitors/VRML/C0603.wrl
       (at (xyz 0 0 0.001))
-      (scale (xyz 0.5 0.5 0.5))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
@@ -678,9 +678,9 @@
       (layers Front F.Paste F.Mask)
       (net 12 GND)
     )
-    (model smd\resistors\R0603.wrl
+    (model C:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Capacitors/VRML/C0603.wrl
       (at (xyz 0 0 0.001))
-      (scale (xyz 0.5 0.5 0.5))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
@@ -1018,9 +1018,9 @@
       (layers Front F.Paste F.Mask)
       (net 12 GND)
     )
-    (model smd\resistors\R0603.wrl
+    (model C:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Capacitors/VRML/C0603.wrl
       (at (xyz 0 0 0.001))
-      (scale (xyz 0.5 0.5 0.5))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
@@ -1049,9 +1049,9 @@
       (layers Front F.Paste F.Mask)
       (net 12 GND)
     )
-    (model smd\resistors\R0603.wrl
+    (model C:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Capacitors/VRML/C0603.wrl
       (at (xyz 0 0 0.001))
-      (scale (xyz 0.5 0.5 0.5))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
@@ -1080,9 +1080,9 @@
       (layers Front F.Paste F.Mask)
       (net 12 GND)
     )
-    (model smd\resistors\R0603.wrl
+    (model C:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Capacitors/VRML/C0603.wrl
       (at (xyz 0 0 0.001))
-      (scale (xyz 0.5 0.5 0.5))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
@@ -1111,9 +1111,9 @@
       (layers Front F.Paste F.Mask)
       (net 12 GND)
     )
-    (model smd\resistors\R0603.wrl
+    (model C:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Capacitors/VRML/C0603.wrl
       (at (xyz 0 0 0.001))
-      (scale (xyz 0.5 0.5 0.5))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
@@ -1142,9 +1142,9 @@
       (layers Front F.Paste F.Mask)
       (net 12 GND)
     )
-    (model smd\resistors\R0603.wrl
+    (model C:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Capacitors/VRML/C0603.wrl
       (at (xyz 0 0 0.001))
-      (scale (xyz 0.5 0.5 0.5))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
@@ -1173,9 +1173,9 @@
       (layers Front F.Paste F.Mask)
       (net 12 GND)
     )
-    (model smd\resistors\R0603.wrl
+    (model C:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Capacitors/VRML/C0603.wrl
       (at (xyz 0 0 0.001))
-      (scale (xyz 0.5 0.5 0.5))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
@@ -1204,9 +1204,9 @@
       (layers Front F.Paste F.Mask)
       (net 12 GND)
     )
-    (model smd\resistors\R0603.wrl
+    (model C:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Capacitors/VRML/C0603.wrl
       (at (xyz 0 0 0.001))
-      (scale (xyz 0.5 0.5 0.5))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
@@ -1235,9 +1235,9 @@
       (layers Front F.Paste F.Mask)
       (net 12 GND)
     )
-    (model smd\resistors\R0603.wrl
+    (model C:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Capacitors/VRML/C0603.wrl
       (at (xyz 0 0 0.001))
-      (scale (xyz 0.5 0.5 0.5))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )

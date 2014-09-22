@@ -1332,8 +1332,8 @@
     )
     (model C:/Engineering/KiCAD_Libraries/3D/LEDs/VRML/LED_0603_GREEN_SMT.wrl
       (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1367,8 +1367,8 @@
     )
     (model C:/Engineering/KiCAD_Libraries/3D/LEDs/VRML/LED_0603_RED_SMT.wrl
       (at (xyz 0 0 0.001))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1402,8 +1402,8 @@
     )
     (model C:/Engineering/KiCAD_Libraries/3D/LEDs/VRML/LED_0603_BLUE_SMT.wrl
       (at (xyz 0 0 0.001))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz 0 0 90))
     )
   )
 
